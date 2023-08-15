@@ -1,0 +1,19 @@
+{
+  "name": "random-str-msg-tiago",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Neitan Contreras <neitancontreras97@gmail.com",
+  "license": "MIT",
+  "bin": {
+    "random-str-msg-tiago": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
